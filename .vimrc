@@ -1,1 +1,0 @@
-/Users/justinjiang/.vim/.vimrc
